@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oHYo00)](https://github.com/oHYo00/github-readme-stats)
@@ -38,7 +39,9 @@ System.out.println("헬로 월드");
 
 :😏:
 :joy:
-:rage:
+:rage:-->
+
+### Hi there 👋
 
 <!--
 **oHYo00/oHYo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
